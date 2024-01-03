@@ -1,7 +1,7 @@
 {
-  "name": "Lobo-Bot-Lite",
+  "name": "LoboBot-MD",
   "version": "1.0.0",
-  "description": "Lobo-Bot-Lite",
+  "description": "LoboBot-MD",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite.",
+  "homepage": "https://github.com/Angel-OFC-900/LoboBot-MD.",
   "author": {
     "name": "Ender"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite.git"
+    "url": "git+https://github.com/Angel-OFC-900/LoboBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite/issues"
+    "url": "https://github.com/Angel-OFC-900/LoboBot-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependependencies": {
