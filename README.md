@@ -1,10 +1,10 @@
->🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 
+>🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Angel-OFC-900
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚉𝙰𝙼𝙸
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙷𝙰𝙲𝙷𝙴 𝙹𝙾𝚃𝙰
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚇𝙴𝙻 
+>🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
 
 ## `🐺𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊🐺` 
 <p align="center">
@@ -14,7 +14,7 @@
 
 
 
-### `—◉ 🤖𝗟𝗼𝗯𝗼-𝗯𝗼𝘁𝘀-𝗠𝗗(𝗼𝗳𝗰)🤖`
+### `—◉ 🤖𝗟𝗼𝗯𝗼𝗯𝗼𝘁𝘀-𝗠𝗗(𝗼𝗳𝗰)🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=5491130182250&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -30,12 +30,12 @@
 
 
 ### `—◉ ⚙️𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝗰𝗶𝗼𝗻⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite/fork)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Angel-OFC-900/LoboBot-MD/fork)
 
   
 ### `—◉ 💥𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗞𝗼𝘆𝗲𝗯💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite&branch=master&name=Lobo-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Angel-OFC-900/LoboBot-MD&branch=master&name=LoboBot)
   
 ### `—◉ 🌌𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗥𝗲𝗽𝗹𝗶𝘁🌌`
 
@@ -99,14 +99,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
-<a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/ENDER_GB_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51982110760" target="blank"><img src="https://img.shields.io/badge/Angel_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
 <a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/ENDER_GB_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-## `🌹EDITOR & PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/Ender-GB-Isis777"><img src="https://github.com/Ender-GB-Isis777.png" width="250" height="250" alt="Ender"/></a>
+## `🌹PROPIETARIO DEL BOT🌹` 
+<a href="https://github.com/Angel-OFC-900"><img src="https://github.com/Angel-OFC-900.png" width="250" height="250" alt="Angel"/></a>
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
@@ -123,4 +123,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
   
-`𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊 -  𝐄𝐧𝐝𝐞𝐫 𝐋𝐃`
+`𝕃𝕠𝕓𝕠𝔹𝕠𝕥-𝕄𝔻 -  𝐀𝐧𝐠𝐞𝐥 𝐋𝐃`
